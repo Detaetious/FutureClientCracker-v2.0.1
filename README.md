@@ -4,4 +4,4 @@
 
 ## MUST INSTALL Node.JS you can download it from www.nodejs.com
 ## MUST INSTALL "DOWNLOAD" PACKAGE USING "npm i download"
-# Then run node future-crack-v2.0.js
+# Then run "node future-crack-v2.0.js"
